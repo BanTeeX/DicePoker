@@ -1,0 +1,3 @@
+﻿using DicePoker;
+
+Application.Loop();
